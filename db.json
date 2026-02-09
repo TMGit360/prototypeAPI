@@ -25,12 +25,30 @@
       "url": "https://s9.imslp.org/files/imglnks/usimg/9/95/IMSLP965855-PMLP5948-Verschollen_BWV_846.1-869.1,_F._Konwitschny.pdf"
     } 
   ],
+  "users": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Person",
+      "id": "1",
+      "name": "Thomas Macaluso",
+      "Description": "This is an interesting manuscript by Beethoven. It is a sketchbook that contains many of his ideas and compositions. It is a valuable resource for musicologists and musicians alike.",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Person",
+      "id": "2",
+      "name": "Caspar George",
+      "Description": "This is a fascinating manuscript of Mahler's Symphony No. 2 'Resurrection'. It provides insight into Mahler's compositional process and the development of this monumental work.",
+      "itemId": "2"
+    }
+    ],
   "collection": {
     "@context": "https://schema.org/",
     "@type": "Collection",
-    "name": "Thomas's Sheet Music Collection",
+    "name": "Thomas Macaluso's API",
     "creator": "thomasmacaluso",
-    "about": "A collection of sheet music for piano and other instruments.",
-    "url": "https://www.jasonclark.info"
+    "about": "Original Manuscripts of Classical Compositions",
+    "url": "index.html"
   }
 }
