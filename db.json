@@ -14,7 +14,8 @@
       "id": "2",
       "name": "Symphony No. 2 'Resurrection'",
       "description": "Manuscript of Gustav Mahler's Symphony No. 2 'Resurrection'",
-      "url": "https://mahlerfoundation.org/mahler/compositions/symphony-no-2/symphony-no-2-manuscript/",
+      "url": "https://mahlerfoundation.org/mahler/compositions/symphony-no-2/symphony-no-2-manuscript/"
+    },
     {
       "@context": "https://schema.org/",
       "@type": "CreativeWork",
